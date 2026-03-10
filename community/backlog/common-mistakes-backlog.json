@@ -333,14 +333,14 @@
     "explanation": "好き takes が, not を. (Pattern set 3)",
     "id": 42,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "wrong": "静かい部屋",
     "correct": "静かな部屋",
     "explanation": "な-adjectives require な before nouns. (Pattern set 3)",
     "id": 43,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
