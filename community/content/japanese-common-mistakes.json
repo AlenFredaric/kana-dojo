@@ -83,5 +83,10 @@
   "wrong": "図書館に本を借りました。",
   "correct": "図書館で本を借りました。",
   "explanation": "で marks location of action. (Pattern set 2)"
-  }
+  },
+  {
+  "wrong": "駅まで十分歩きますかかる。",
+  "correct": "駅まで歩いて十分かかる。",
+  "explanation": "Use natural collocation and order. (Pattern set 5)"
+}
 ]
